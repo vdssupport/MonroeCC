@@ -7,11 +7,11 @@
 */
 
 html {
-  background: #{{Color_1}};
+  background: #000000;
 }
 
 .splash {
-  background-color: #{{Color_1}};
+  background-color: #000000;
 }
 
 .splash .loading path {
