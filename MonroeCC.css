@@ -23,6 +23,10 @@ header.header-main {
   height: 8.5em;
 }
 
+header-main {
+	background: #000000;
+}
+
 .logo {
   background: url('//vdssupport.github.io/MonroeCC/MCC_logo_left_outline_gold_white_rgb.png') top center no-repeat;
   display: inline-block;
@@ -31,7 +35,7 @@ header.header-main {
 }
 
 header.header-page {
-  background-color:#{{Color_2}};
+  background-color:#000000;
 }
 
 .header-page .tabs li a {
