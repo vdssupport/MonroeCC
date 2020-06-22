@@ -19,13 +19,10 @@ html {
 }
 
 header.header-main {
-  background-color: #{{Color_1}};
+  background-color: #000000;
   height: 8.5em;
 }
 
-header-main {
-	background: #000000;
-}
 
 .logo {
   background: url('//vdssupport.github.io/MonroeCC/MCC_logo_left_outline_gold_white_rgb.png') top center no-repeat;
@@ -39,8 +36,8 @@ header.header-page {
 }
 
 .header-page .tabs li a {
-  border-bottom-color:#{{Color_2}};
-  color: #{{Color_2_Tint}};
+  border-bottom-color:#C99700;
+  color: #C99700;
 }
 
 .header-page .tabs li a:hover,
@@ -55,7 +52,7 @@ header.header-page {
 }
 
 .header-page .buttons button {
-  background-color: #{{Color_1}};
+  background-color: #C99700;
   color: #fff;
 }
 
@@ -67,7 +64,7 @@ header.header-page {
 .header-page .buttons button:hover,
 .header-page .buttons button:focus 
 {
-  background-color: #{{Color_2_Tint}};
+  background-color: #C99700;
   color: #{{Color_1}};
 
   /* Alternative if the above doesn't look so great.
@@ -88,7 +85,7 @@ header.header-page {
 }
 
 button {
-    background-color: #{{Color_2}};
+    background-color: #C99700;
 }
 
 button:hover,
